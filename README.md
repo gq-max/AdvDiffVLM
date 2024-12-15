@@ -3,7 +3,7 @@ This repository is an official implementation of the paper "Efficient Generation
 
 ## TODO
 - [x] Release [Arxiv paper](https://arxiv.org/abs/2404.10335)
-- [ ] Release core code
+- [x] Release core code
 - [ ] Release adversarial example generation code
 - [ ] Release test code
 ## Introduction
