@@ -23,3 +23,8 @@ we propose AdvDiffVLM, which uses diffusion models to generate natural, unrestri
       url={https://arxiv.org/abs/2404.10335}, 
 }
 ```
+## Related work
+[AdvDiffuser](https://github.com/lafeat/advdiffuser)
+[AttackVLM](https://github.com/yunqing-me/AttackVLM)
+[Attack-Bard](https://github.com/thu-ml/Attack-Bard)
+[SIA](https://github.com/xiaosen-wang/SIT)
