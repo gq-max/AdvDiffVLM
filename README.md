@@ -13,10 +13,13 @@ we propose AdvDiffVLM, which uses diffusion models to generate natural, unrestri
 
 ## Citation
 ```
-@article{guo2024efficiently,
-  title={Efficiently Adversarial Examples Generation for Visual-Language Models under Targeted Transfer Scenarios using Diffusion Models},
-  author={Guo, Qi and Pang, Shanmin and Jia, Xiaojun and Guo, Qing},
-  journal={arXiv preprint arXiv:2404.10335},
-  year={2024}
+@misc{guo2024efficientgenerationtargetedtransferable,
+      title={Efficient Generation of Targeted and Transferable Adversarial Examples for Vision-Language Models Via Diffusion Models}, 
+      author={Qi Guo and Shanmin Pang and Xiaojun Jia and Yang Liu and Qing Guo},
+      year={2024},
+      eprint={2404.10335},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2404.10335}, 
 }
 ```
