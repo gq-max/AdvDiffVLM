@@ -16,14 +16,12 @@ python main.py
 
 ## Citation
 ```
-@misc{guo2024efficientgenerationtargetedtransferable,
-      title={Efficient Generation of Targeted and Transferable Adversarial Examples for Vision-Language Models Via Diffusion Models}, 
-      author={Qi Guo and Shanmin Pang and Xiaojun Jia and Yang Liu and Qing Guo},
-      year={2024},
-      eprint={2404.10335},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2404.10335}, 
+@article{guo2024efficient,
+  title={Efficient Generation of Targeted and Transferable Adversarial Examples for Vision-Language Models Via Diffusion Models},
+  author={Guo, Qi and Pang, Shanmin and Jia, Xiaojun and Liu, Yang and Guo, Qing},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 ## Related work
