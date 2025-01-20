@@ -38,7 +38,7 @@ def load_model_from_config(config, ckpt):
 
 def get_model(): 
     config = OmegaConf.load("ldm.yaml")  # configs/latent-diffusion/cin256-v2.yaml
-    model = load_model_from_config(config, "model.ckpt") # https://ommer-lab.com/files/latent-diffusion/cin.zip
+    model = load_model_from_config(config, "model.ckpt") # https://ommer-lab.com/files/latent-diffusion/nitro/cin/model.ckpt
     return model
 
 seed = 0
