@@ -381,7 +381,7 @@ class DDIMSampler(object):
                     continue
                 ts = torch.full((b,), step, device=device, dtype=torch.long)
                 mask = cam.clone().to(device)
-                mask = torch.clamp(mask, 0.05, 1)
+                mask = torch.clamp(mask, 0.0, 1)
                 cam_new = torch.clamp(cam, 0.3, 0.7)
                 # mask = cam_new.to(device)
                 prob_matrix = cam_new.numpy()
