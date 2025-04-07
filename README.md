@@ -12,6 +12,9 @@ we propose AdvDiffVLM, which uses diffusion models to generate natural, unrestri
 (AEGE) to modify the score during the diffusion model’s reverse generation process, ensuring that the produced adversarial examples have natural adversarial targeted semantics, which improves their transferability. Simultaneously, to improve the quality of adversarial examples, we use the GradCAM-guided Mask Generation (GCMG) to disperse adversarial semantics throughout the image rather than concentrating them in a single area.
 
 ## Quick Start
+The target data and evaluation methods can be found in AttackVLM.
+The weights of the adversarial sample generation model are in https://github.com/CompVis/latent-diffusion.
+The code of GradCAM is in https://github.com/ramprs/grad-cam/.
 
 python demo.py
 
