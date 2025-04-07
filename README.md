@@ -1,5 +1,5 @@
 # Efficient Generation of Targeted and Transferable Adversarial Examples for Vision-Language Models Via Diffusion Models
-This repository is an official implementation of the paper "Efficient Generation of Targeted and Transferable Adversarial Examples for Vision-Language Models Via Diffusion Models". If you have urgent questions, please contact 1325930068@qq.com.
+This repository is an official implementation of the paper "Efficient Generation of Targeted and Transferable Adversarial Examples for Vision-Language Models Via Diffusion Models". 
 
 ## TODO
 - [x] Release [Arxiv paper](https://arxiv.org/abs/2404.10335)
